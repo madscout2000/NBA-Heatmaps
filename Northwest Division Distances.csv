@@ -1,0 +1,26 @@
+Origin,Destination,Distance,Distance2
+Denver Nuggets,Denver,0,NA
+Minnesota Timberwolves,Denver,914.38,914.38
+Oklahoma City Thunder,Denver,678.39,678.39
+Portland Trailblazers,Denver,1243.8,1243.8
+Utah Jazz,Denver,519.23,519.23
+Denver Nuggets,Minneapolis,914.03,NA
+Minnesota Timberwolves,Minneapolis,0,NA
+Oklahoma City Thunder,Minneapolis,787.71,787.71
+Portland Trailblazers,Minneapolis,1728.39,1728.39
+Utah Jazz,Minneapolis,1244.48,1244.48
+Denver Nuggets,Oklahoma City,677.3,NA
+Minnesota Timberwolves,Oklahoma City,789.32,NA
+Oklahoma City Thunder,Oklahoma City,0,NA
+Portland Trailblazers,Oklahoma City,1912.21,1912.21
+Utah Jazz,Oklahoma City,1187.64,1187.64
+Denver Nuggets,Portland,1240.44,NA
+Minnesota Timberwolves,Portland,1728.14,NA
+Oklahoma City Thunder,Portland,1909.5,NA
+Portland Trailblazers,Portland,0,NA
+Utah Jazz,Portland,763.61,763.61
+Denver Nuggets,Salt Lake City,519.27,NA
+Minnesota Timberwolves,Salt Lake City,1247.17,NA
+Oklahoma City Thunder,Salt Lake City,1188.33,NA
+Portland Trailblazers,Salt Lake City,767.35,NA
+Utah Jazz,Salt Lake City,0,NA

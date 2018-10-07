@@ -1,0 +1,88 @@
+Destination,Parameter,Distance
+Boston,AverageDivisionalDistance,327
+Brooklyn - NY,AverageDivisionalDistance,205
+New York (Manhattan),AverageDivisionalDistance,197
+Philadelphia,AverageDivisionalDistance,245
+Toronto,AverageDivisionalDistance,509
+Chicago,AverageDivisionalDistance,226
+Cleveland,AverageDivisionalDistance,317
+Detroit,AverageDivisionalDistance,255
+Indianapolis,AverageDivisionalDistance,267
+Milwaukee,AverageDivisionalDistance,297
+Atlanta,AverageDivisionalDistance,495
+Charlotte,AverageDivisionalDistance,474
+Miami,AverageDivisionalDistance,671
+Orlando,AverageDivisionalDistance,511
+Washington DC,AverageDivisionalDistance,733
+Denver,AverageDivisionalDistance,839
+Minneapolis,AverageDivisionalDistance,1169
+Oklahoma City,AverageDivisionalDistance,1142
+Portland,AverageDivisionalDistance,1410
+Salt Lake City,AverageDivisionalDistance,931
+Los Angeles,AverageDivisionalDistance,376
+Oakland,AverageDivisionalDistance,396
+Phoenix,AverageDivisionalDistance,622
+Sacramento,AverageDivisionalDistance,409
+Dallas,AverageDivisionalDistance,369
+Houston,AverageDivisionalDistance,338
+Memphis,AverageDivisionalDistance,535
+New Orleans,AverageDivisionalDistance,446
+San Antonio,AverageDivisionalDistance,431
+Boston,AverageConferenceDistance,763
+Brooklyn - NY,AverageConferenceDistance,600
+New York (Manhattan),AverageConferenceDistance,595
+Philadelphia,AverageConferenceDistance,565
+Toronto,AverageConferenceDistance,645
+Chicago,AverageConferenceDistance,677
+Cleveland,AverageConferenceDistance,530
+Detroit,AverageConferenceDistance,587
+Indianapolis,AverageConferenceDistance,606
+Milwaukee,AverageConferenceDistance,748
+Atlanta,AverageConferenceDistance,718
+Charlotte,AverageConferenceDistance,619
+Miami,AverageConferenceDistance,1150
+Orlando,AverageConferenceDistance,953
+Washington DC,AverageConferenceDistance,531
+Denver,AverageConferenceDistance,978
+Minneapolis,AverageConferenceDistance,1353
+Oklahoma City,AverageConferenceDistance,953
+Portland,AverageConferenceDistance,1556
+Salt Lake City,AverageConferenceDistance,1063
+Los Angeles,AverageConferenceDistance,1162
+Oakland,AverageConferenceDistance,1309
+Phoenix,AverageConferenceDistance,1033
+Sacramento,AverageConferenceDistance,1294
+Dallas,AverageConferenceDistance,971
+Houston,AverageConferenceDistance,1102
+Memphis,AverageConferenceDistance,1204
+New Orleans,AverageConferenceDistance,1323
+San Antonio,AverageConferenceDistance,1044
+Boston,AverageLeagueDistance,1486
+Brooklyn - NY,AverageLeagueDistance,1295
+New York (Manhattan),AverageLeagueDistance,1292
+Philadelphia,AverageLeagueDistance,1247
+Toronto,AverageLeagueDistance,1213
+Chicago,AverageLeagueDistance,996
+Cleveland,AverageLeagueDistance,1060
+Detroit,AverageLeagueDistance,1075
+Indianapolis,AverageLeagueDistance,978
+Milwaukee,AverageLeagueDistance,1056
+Atlanta,AverageLeagueDistance,1081
+Charlotte,AverageLeagueDistance,1135
+Miami,AverageLeagueDistance,1584
+Orlando,AverageLeagueDistance,1374
+Washington DC,AverageLeagueDistance,1188
+Denver,AverageLeagueDistance,1278
+Minneapolis,AverageLeagueDistance,1177
+Oklahoma City,AverageLeagueDistance,1080
+Portland,AverageLeagueDistance,2154
+Salt Lake City,AverageLeagueDistance,1542
+Los Angeles,AverageLeagueDistance,1865
+Oakland,AverageLeagueDistance,2027
+Phoenix,AverageLeagueDistance,1629
+Sacramento,AverageLeagueDistance,1989
+Dallas,AverageLeagueDistance,1116
+Houston,AverageLeagueDistance,1207
+Memphis,AverageLeagueDistance,1004
+New Orleans,AverageLeagueDistance,1163
+San Antonio,AverageLeagueDistance,1276

@@ -1,0 +1,226 @@
+Origin,Destination,Distance,Distance2
+Atlanta Hawks,Atlanta,0,NA
+Boston Celtics,Atlanta,1086.21,1086.21
+Brooklyn Nets,Atlanta,872.46,872.46
+Charlotte Hornets,Atlanta,242.93,242.93
+Chicago Bulls,Atlanta,716.14,716.14
+Cleveland Cavaliers,Atlanta,707.78,707.78
+Detroit Pistons,Atlanta,722.83,722.83
+Indiana Pacers,Atlanta,531.41,531.41
+Miami Heat,Atlanta,662.17,662.17
+Milwaukee Bucks,Atlanta,811.19,811.19
+New York Knicks,Atlanta,873.59,873.59
+Orlando Magic,Atlanta,438.51,438.51
+Philadelphia 76ers,Atlanta,782.05,782.05
+Toronto Raptors,Atlanta,968.86,968.86
+Washington Wizards,Atlanta,637.9,637.9
+Atlanta Hawks,Boston,1075.98,NA
+Boston Celtics,Boston,0,NA
+Brooklyn Nets,Boston,228.34,228.34
+Charlotte Hornets,Boston,836.57,836.57
+Chicago Bulls,Boston,984.86,984.86
+Cleveland Cavaliers,Boston,640.16,640.16
+Detroit Pistons,Boston,711.24,711.24
+Indiana Pacers,Boston,950.07,950.07
+Miami Heat,Boston,1490.03,1490.03
+Milwaukee Bucks,Boston,963.78,963.78
+New York Knicks,Boston,213.83,213.83
+Orlando Magic,Boston,1285.78,1285.78
+Philadelphia 76ers,Boston,307,307
+Toronto Raptors,Boston,550.77,550.77
+Washington Wizards,Boston,441.11,441.11
+Atlanta Hawks,Brooklyn - NY,865.25,NA
+Boston Celtics,Brooklyn - NY,217.19,NA
+Brooklyn Nets,Brooklyn - NY,0,NA
+Charlotte Hornets,Brooklyn - NY,628.8,628.8
+Chicago Bulls,Brooklyn - NY,800.75,800.75
+Cleveland Cavaliers,Brooklyn - NY,471.47,471.47
+Detroit Pistons,Brooklyn - NY,625.63,625.63
+Indiana Pacers,Brooklyn - NY,729.39,729.39
+Miami Heat,Brooklyn - NY,1279.41,1279.41
+Milwaukee Bucks,Brooklyn - NY,882.64,882.64
+New York Knicks,Brooklyn - NY,5.27,5.27
+Orlando Magic,Brooklyn - NY,1075.16,1075.16
+Philadelphia 76ers,Brooklyn - NY,96.39,96.39
+Toronto Raptors,Brooklyn - NY,501.23,501.23
+Washington Wizards,Brooklyn - NY,227.37,227.37
+Atlanta Hawks,Charlotte,243.69,NA
+Boston Celtics,Charlotte,848.51,NA
+Brooklyn Nets,Charlotte,634.76,NA
+Charlotte Hornets,Charlotte,0,NA
+Chicago Bulls,Charlotte,757.35,757.35
+Cleveland Cavaliers,Charlotte,514.45,514.45
+Detroit Pistons,Charlotte,630.44,630.44
+Indiana Pacers,Charlotte,575.29,575.29
+Miami Heat,Charlotte,728.65,728.65
+Milwaukee Bucks,Charlotte,852.37,852.37
+New York Knicks,Charlotte,635.85,635.85
+Orlando Magic,Charlotte,536.26,536.26
+Philadelphia 76ers,Charlotte,544.81,544.81
+Toronto Raptors,Charlotte,759.07,759.07
+Washington Wizards,Charlotte,400.21,400.21
+Atlanta Hawks,Chicago,718.03,NA
+Boston Celtics,Chicago,984.06,NA
+Brooklyn Nets,Chicago,794.14,NA
+Charlotte Hornets,Chicago,767.69,NA
+Chicago Bulls,Chicago,0,NA
+Cleveland Cavaliers,Chicago,345.24,345.24
+Detroit Pistons,Chicago,282.48,282.48
+Indiana Pacers,Chicago,184.15,184.15
+Miami Heat,Chicago,1379.13,1379.13
+Milwaukee Bucks,Chicago,91.18,91.18
+New York Knicks,Chicago,792.98,792.98
+Orlando Magic,Chicago,1155.47,1155.47
+Philadelphia 76ers,Chicago,760.66,760.66
+Toronto Raptors,Chicago,524.79,524.79
+Washington Wizards,Chicago,696.68,696.68
+Atlanta Hawks,Cleveland,708.26,NA
+Boston Celtics,Cleveland,639.99,NA
+Brooklyn Nets,Cleveland,463.8,NA
+Charlotte Hornets,Cleveland,516.16,NA
+Chicago Bulls,Cleveland,345.63,NA
+Cleveland Cavaliers,Cleveland,0,NA
+Detroit Pistons,Cleveland,170.55,170.55
+Indiana Pacers,Cleveland,316.17,316.17
+Miami Heat,Cleveland,1241.25,1241.25
+Milwaukee Bucks,Cleveland,435.04,435.04
+New York Knicks,Cleveland,463.06,463.06
+Orlando Magic,Cleveland,1037,1037
+Philadelphia 76ers,Cleveland,430.74,430.74
+Toronto Raptors,Cleveland,292.02,292.02
+Washington Wizards,Cleveland,367.12,367.12
+Atlanta Hawks,Detroit,720.91,NA
+Boston Celtics,Detroit,718.75,NA
+Brooklyn Nets,Detroit,617.15,NA
+Charlotte Hornets,Detroit,629.8,NA
+Chicago Bulls,Detroit,282.86,NA
+Cleveland Cavaliers,Detroit,167.93,NA
+Detroit Pistons,Detroit,0,NA
+Indiana Pacers,Detroit,286.07,286.07
+Miami Heat,Detroit,1382.77,1382.77
+Milwaukee Bucks,Detroit,283.26,283.26
+New York Knicks,Detroit,615.84,615.84
+Orlando Magic,Detroit,1159.11,1159.11
+Philadelphia 76ers,Detroit,583.4,583.4
+Toronto Raptors,Detroit,246.44,246.44
+Washington Wizards,Detroit,519.54,519.54
+Atlanta Hawks,Indianapolis,533.54,NA
+Boston Celtics,Indianapolis,936.52,NA
+Brooklyn Nets,Indianapolis,727.81,NA
+Charlotte Hornets,Indianapolis,583.96,NA
+Chicago Bulls,Indianapolis,184.25,NA
+Cleveland Cavaliers,Indianapolis,315.27,NA
+Detroit Pistons,Indianapolis,288.72,NA
+Indiana Pacers,Indianapolis,0,NA
+Miami Heat,Indianapolis,1195.4,1195.4
+Milwaukee Bucks,Indianapolis,279.49,279.49
+New York Knicks,Indianapolis,711.3,711.3
+Orlando Magic,Indianapolis,971.74,971.74
+Philadelphia 76ers,Indianapolis,643.53,643.53
+Toronto Raptors,Indianapolis,541.01,541.01
+Washington Wizards,Indianapolis,572.55,572.55
+Atlanta Hawks,Miami,662.37,NA
+Boston Celtics,Miami,1498.74,NA
+Brooklyn Nets,Miami,1284.97,NA
+Charlotte Hornets,Miami,728.54,NA
+Chicago Bulls,Miami,1378.32,NA
+Cleveland Cavaliers,Miami,1240.53,NA
+Detroit Pistons,Miami,1384.91,NA
+Indiana Pacers,Miami,1193.96,NA
+Miami Heat,Miami,0,NA
+Milwaukee Bucks,Miami,1473.37,1473.37
+New York Knicks,Miami,1286.08,1286.08
+Orlando Magic,Miami,243.13,243.13
+Philadelphia 76ers,Miami,1195.04,1195.04
+Toronto Raptors,Miami,1483.86,1483.86
+Washington Wizards,Miami,1050.44,1050.44
+Atlanta Hawks,Milwaukee,813.51,NA
+Boston Celtics,Milwaukee,1074.63,NA
+Brooklyn Nets,Milwaukee,884.04,NA
+Charlotte Hornets,Milwaukee,863.93,NA
+Chicago Bulls,Milwaukee,91.97,NA
+Cleveland Cavaliers,Milwaukee,435.14,NA
+Detroit Pistons,Milwaukee,284.85,NA
+Indiana Pacers,Milwaukee,280.38,NA
+Miami Heat,Milwaukee,1475.37,NA
+Milwaukee Bucks,Milwaukee,0,NA
+New York Knicks,Milwaukee,882.88,882.88
+Orlando Magic,Milwaukee,1251.71,1251.71
+Philadelphia 76ers,Milwaukee,850.6,850.6
+Toronto Raptors,Milwaukee,492.78,492.78
+Washington Wizards,Milwaukee,786.86,786.86
+Atlanta Hawks,New York (Manhattan),864.62,NA
+Boston Celtics,New York (Manhattan),213.14,NA
+Brooklyn Nets,New York (Manhattan),5.53,NA
+Charlotte Hornets,New York (Manhattan),625.31,NA
+Chicago Bulls,New York (Manhattan),792.71,NA
+Cleveland Cavaliers,New York (Manhattan),463.46,NA
+Detroit Pistons,New York (Manhattan),617.62,NA
+Indiana Pacers,New York (Manhattan),712,NA
+Miami Heat,New York (Manhattan),1278.77,NA
+Milwaukee Bucks,New York (Manhattan),882.1,NA
+New York Knicks,New York (Manhattan),0,NA
+Orlando Magic,New York (Manhattan),1074.52,1074.52
+Philadelphia 76ers,New York (Manhattan),95.75,95.75
+Toronto Raptors,New York (Manhattan),471.67,471.67
+Washington Wizards,New York (Manhattan),226.73,226.73
+Atlanta Hawks,Orlando,438.74,NA
+Boston Celtics,Orlando,1294.98,NA
+Brooklyn Nets,Orlando,1081.2,NA
+Charlotte Hornets,Orlando,524.78,NA
+Chicago Bulls,Orlando,1154.71,NA
+Cleveland Cavaliers,Orlando,1036.77,NA
+Detroit Pistons,Orlando,1161.38,NA
+Indiana Pacers,Orlando,969.95,NA
+Miami Heat,Orlando,233.63,NA
+Milwaukee Bucks,Orlando,1249.73,NA
+New York Knicks,Orlando,1082.36,NA
+Orlando Magic,Orlando,0,NA
+Philadelphia 76ers,Orlando,991.27,991.27
+Toronto Raptors,Orlando,1280.09,1280.09
+Washington Wizards,Orlando,846.67,846.67
+Atlanta Hawks,Philadelphia,775.82,NA
+Boston Celtics,Philadelphia,309.3,NA
+Brooklyn Nets,Philadelphia,95.52,NA
+Charlotte Hornets,Philadelphia,539.37,NA
+Chicago Bulls,Philadelphia,760.49,NA
+Cleveland Cavaliers,Philadelphia,431.24,NA
+Detroit Pistons,Philadelphia,592.81,NA
+Indiana Pacers,Philadelphia,643.6,NA
+Miami Heat,Philadelphia,1189.98,NA
+Milwaukee Bucks,Philadelphia,849.89,NA
+New York Knicks,Philadelphia,96.68,NA
+Orlando Magic,Philadelphia,986.37,NA
+Philadelphia 76ers,Philadelphia,0,NA
+Toronto Raptors,Philadelphia,497.44,497.44
+Washington Wizards,Philadelphia,137.55,137.55
+Atlanta Hawks,Toronto,949.94,NA
+Boston Celtics,Toronto,549.49,NA
+Brooklyn Nets,Toronto,492.63,NA
+Charlotte Hornets,Toronto,758.4,NA
+Chicago Bulls,Toronto,521.14,NA
+Cleveland Cavaliers,Toronto,291.01,NA
+Detroit Pistons,Toronto,234.71,NA
+Indiana Pacers,Toronto,510.96,NA
+Miami Heat,Toronto,1483.49,NA
+Milwaukee Bucks,Toronto,487.24,NA
+New York Knicks,Toronto,491.86,NA
+Orlando Magic,Toronto,1279.24,NA
+Philadelphia 76ers,Toronto,496.42,NA
+Toronto Raptors,Toronto,0,NA
+Washington Wizards,Toronto,476.51,476.51
+Atlanta Hawks,Washington DC,636.35,NA
+Boston Celtics,Washington DC,439.8,NA
+Brooklyn Nets,Washington DC,226.88,NA
+Charlotte Hornets,Washington DC,399.9,NA
+Chicago Bulls,Washington DC,704.21,NA
+Cleveland Cavaliers,Washington DC,374.96,NA
+Detroit Pistons,Washington DC,529.01,NA
+Indiana Pacers,Washington DC,578.52,NA
+Miami Heat,Washington DC,1050.51,NA
+Milwaukee Bucks,Washington DC,793.6,NA
+New York Knicks,Washington DC,227.99,NA
+Orlando Magic,Washington DC,846.26,NA
+Philadelphia 76ers,Washington DC,136.94,NA
+Toronto Raptors,Washington DC,483.89,NA
+Washington Wizards,Washington DC,0,NA

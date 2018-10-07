@@ -1,0 +1,26 @@
+Origin,Destination,Distance,Distance2
+Boston Celtics,Boston,0,NA
+Brooklyn Nets,Boston,228.34,228.34
+New York Knicks,Boston,223.33,223.33
+Philadelphia 76ers,Boston,307,307
+Toronto Raptors,Boston,549.47,549.47
+Boston Celtics,Brooklyn - NY,217.53,NA
+Brooklyn Nets,Brooklyn - NY,0,NA
+New York Knicks,Brooklyn - NY,5.27,5.27
+Philadelphia 76ers,Brooklyn - NY,96.38,96.38
+Toronto Raptors,Brooklyn - NY,500.1,500.1
+Boston Celtics,Manhattan,214.14,NA
+Brooklyn Nets,Manhattan,5.53,NA
+New York Knicks,Manhattan,0,NA
+Philadelphia 76ers,Manhattan,95.73,95.73
+Toronto Raptors,Manhattan,471.67,471.67
+Boston Celtics,Philadelphia,309.61,NA
+Brooklyn Nets,Philadelphia,95.55,NA
+New York Knicks,Philadelphia,96.63,NA
+Philadelphia 76ers,Philadelphia,0,NA
+Toronto Raptors,Philadelphia,477.19,477.19
+Boston Celtics,Toronto,549.83,NA
+Brooklyn Nets,Toronto,493.01,NA
+New York Knicks,Toronto,494.99,NA
+Philadelphia 76ers,Toronto,496.42,NA
+Toronto Raptors,Toronto,0,NA

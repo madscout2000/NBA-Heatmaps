@@ -1,0 +1,26 @@
+Origin,Destination,Distance,Distance2
+Atlanta Hawks,Atlanta,0,NA
+Charlotte Hornets,Atlanta,242.93,242.93
+Miami Heat,Atlanta,662.17,662.17
+Orlando Magic,Atlanta,438.51,438.51
+Washington Wizards,Atlanta,637.9,637.9
+Atlanta Hawks,Charlotte,243.69,NA
+Charlotte Hornets,Charlotte,0,NA
+Miami Heat,Charlotte,728.65,728.65
+Orlando Magic,Charlotte,524.4,524.4
+Washington Wizards,Charlotte,400.21,400.21
+Atlanta Hawks,Miami,662.37,NA
+Charlotte Hornets,Miami,728.54,NA
+Miami Heat,Miami,0,NA
+Orlando Magic,Miami,234.21,234.21
+Washington Wizards,Miami,1059.33,1059.33
+Atlanta Hawks,Orlando,438.74,NA
+Charlotte Hornets,Orlando,524.78,NA
+Miami Heat,Orlando,233.63,NA
+Orlando Magic,Orlando,0,NA
+Washington Wizards,Orlando,846.67,846.67
+Atlanta Hawks,Washington,636.34,NA
+Charlotte Hornets,Washington,399.9,NA
+Miami Heat,Washington,1050.51,NA
+Orlando Magic,Washington,846.26,NA
+Washington Wizards,Washington,0,NA

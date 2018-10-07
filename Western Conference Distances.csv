@@ -1,0 +1,197 @@
+Origin,Destination,Distance,Distance2
+Dallas Mavericks,Dallas,0,NA
+Denver Nuggets,Dallas,794,794
+Golden State Warriors,Dallas,1714.18,1714.18
+Houston Rockets,Dallas,241.73,241.73
+LA Lakers/Clippers,Dallas,1439.08,1439.08
+Memphis Grizzlies,Dallas,456.66,456.66
+Minnesota Timberwolves,Dallas,940.77,940.77
+Pelicans,Dallas,507.14,507.14
+OKC Thunder,Dallas,202.38,202.38
+Phoenix Suns,Dallas,1064.58,1064.58
+Portland Trailblazers,Dallas,2007.01,2007.01
+Sacramento Kings,Dallas,1727.71,1727.71
+San Antonio Spurs,Dallas,287.87,287.87
+Utah Jazz,Dallas,1240.61,1240.61
+Dallas Mavericks,Denver,792.49,NA
+Denver Nuggets,Denver,0,NA
+Golden State Warriors,Denver,1252.19,1252.19
+Houston Rockets,Denver,1033.81,1033.81
+LA Lakers/Clippers,Denver,1017.81,1017.81
+Memphis Grizzlies,Denver,1048.73,1048.73
+Minnesota Timberwolves,Denver,914.38,914.38
+Pelicans,Denver,1295.41,1295.41
+OKC Thunder,Denver,678.39,678.39
+Phoenix Suns,Denver,862.3,862.3
+Portland Trailblazers,Denver,1243.8,1243.8
+Sacramento Kings,Denver,1124.8,1124.8
+San Antonio Spurs,Denver,936.26,936.26
+Utah Jazz,Denver,519.23,519.23
+Dallas Mavericks,Oakland,1713.47,NA
+Denver Nuggets,Oakland,1209.03,NA
+Golden State Warriors,Oakland,0,NA
+Houston Rockets,Oakland,1915.37,1915.37
+LA Lakers/Clippers,Oakland,371.95,371.95
+Memphis Grizzlies,Oakland,2075.87,2075.87
+Minnesota Timberwolves,Oakland,1977.51,1977.51
+Pelicans,Oakland,2216.38,2216.38
+OKC Thunder,Oakland,1609.74,1609.74
+Phoenix Suns,Oakland,736.41,736.41
+Portland Trailblazers,Oakland,635.81,635.81
+Sacramento Kings,Oakland,104.52,104.52
+San Antonio Spurs,Oakland,1721.11,1721.11
+Utah Jazz,Oakland,735.88,735.88
+Dallas Mavericks,Houston,241.89,NA
+Denver Nuggets,Houston,1038.61,NA
+Golden State Warriors,Houston,1914.01,NA
+Houston Rockets,Houston,0,NA
+LA Lakers/Clippers,Houston,1551.55,1551.55
+Memphis Grizzlies,Houston,568.6,568.6
+Minnesota Timberwolves,Houston,1180.22,1180.22
+Pelicans,Houston,346.9,346.9
+OKC Thunder,Houston,444.46,444.46
+Phoenix Suns,Houston,1177.05,1177.05
+Portland Trailblazers,Houston,2251.62,2251.62
+Sacramento Kings,Houston,1932.11,1932.11
+San Antonio Spurs,Houston,192.98,192.98
+Utah Jazz,Houston,1485.23,1485.23
+Dallas Mavericks,Los Angeles,1437.7,NA
+Denver Nuggets,Los Angeles,1019.3,NA
+Golden State Warriors,Los Angeles,367.92,NA
+Houston Rockets,Los Angeles,1553.31,NA
+LA Lakers/Clippers,Los Angeles,0,NA
+Memphis Grizzlies,Los Angeles,1797.94,1797.94
+Minnesota Timberwolves,Los Angeles,1930.83,1930.83
+Pelicans,Los Angeles,1893.04,1893.04
+OKC Thunder,Los Angeles,1331.81,1331.81
+Phoenix Suns,Los Angeles,374.24,374.24
+Portland Trailblazers,Los Angeles,965.76,965.76
+Sacramento Kings,Los Angeles,386.02,386.02
+San Antonio Spurs,Los Angeles,1359.05,1359.05
+Utah Jazz,Los Angeles,691.96,691.96
+Dallas Mavericks,Memphis,454.46,NA
+Denver Nuggets,Memphis,1047.04,NA
+Golden State Warriors,Memphis,2076.58,NA
+Houston Rockets,Memphis,579.05,NA
+LA Lakers/Clippers,Memphis,1795.7,NA
+Memphis Grizzlies,Memphis,0,NA
+Minnesota Timberwolves,Memphis,808.36,808.36
+Pelicans,Memphis,393.46,393.46
+OKC Thunder,Memphis,467.42,467.42
+Phoenix Suns,Memphis,1423.56,1423.56
+Portland Trailblazers,Memphis,2249.05,2249.05
+Sacramento Kings,Memphis,2090.11,2090.11
+San Antonio Spurs,Memphis,739.53,739.53
+Utah Jazz,Memphis,1524.47,1524.47
+Dallas Mavericks,Minneapolis,988.18,NA
+Denver Nuggets,Minneapolis,914.03,NA
+Golden State Warriors,Minneapolis,1978.25,NA
+Houston Rockets,Minneapolis,1181.21,NA
+LA Lakers/Clippers,Minneapolis,1929.16,NA
+Memphis Grizzlies,Minneapolis,830.78,NA
+Minnesota Timberwolves,Minneapolis,0,NA
+Pelicans,Minneapolis,1223.04,1223.04
+OKC Thunder,Minneapolis,787.71,787.71
+Phoenix Suns,Minneapolis,1642.08,1642.08
+Portland Trailblazers,Minneapolis,1728.39,1728.39
+Sacramento Kings,Minneapolis,1893.59,1893.59
+San Antonio Spurs,Minneapolis,1247.05,1247.05
+Utah Jazz,Minneapolis,1244.48,1244.48
+Dallas Mavericks,New Orleans,507.73,NA
+Denver Nuggets,New Orleans,1298.45,NA
+Golden State Warriors,New Orleans,2258.13,NA
+Houston Rockets,New Orleans,346.79,NA
+LA Lakers/Clippers,New Orleans,1895.66,NA
+Memphis Grizzlies,New Orleans,393.78,NA
+Minnesota Timberwolves,New Orleans,1199.71,NA
+Pelicans,New Orleans,0,NA
+OKC Thunder,New Orleans,706.76,706.76
+Phoenix Suns,New Orleans,1521.16,1521.16
+Portland Trailblazers,New Orleans,2511.46,2511.46
+Sacramento Kings,New Orleans,2276.23,2276.23
+San Antonio Spurs,New Orleans,537.1,537.1
+Utah Jazz,New Orleans,1745.06,1745.06
+Dallas Mavericks,Oklahoma City,204.26,NA
+Denver Nuggets,Oklahoma City,677.3,NA
+Golden State Warriors,Oklahoma City,1610.62,NA
+Houston Rockets,Oklahoma City,445.58,NA
+LA Lakers/Clippers,Oklahoma City,1329.74,NA
+Memphis Grizzlies,Oklahoma City,467.91,NA
+Minnesota Timberwolves,Oklahoma City,789.32,NA
+Pelicans,Oklahoma City,707.25,NA
+OKC Thunder,Oklahoma City,0,NA
+Phoenix Suns,Oklahoma City,957.6,957.6
+Portland Trailblazers,Oklahoma City,1912.21,1912.21
+Sacramento Kings,Oklahoma City,1624.15,1624.15
+San Antonio Spurs,Oklahoma City,479.64,479.64
+Utah Jazz,Oklahoma City,1187.64,1187.64
+Dallas Mavericks,Phoenix,1064.18,NA
+Denver Nuggets,Phoenix,863.56,NA
+Golden State Warriors,Phoenix,736.92,NA
+Houston Rockets,Phoenix,1179.78,NA
+LA Lakers/Clippers,Phoenix,373.52,NA
+Memphis Grizzlies,Phoenix,1425.94,NA
+Minnesota Timberwolves,Phoenix,1645.74,NA
+Pelicans,Phoenix,1519.52,NA
+OKC Thunder,Phoenix,959.81,NA
+Phoenix Suns,Phoenix,0,NA
+Portland Trailblazers,Phoenix,1265.65,1265.65
+Sacramento Kings,Phoenix,755.02,755.02
+San Antonio Spurs,Phoenix,985.52,985.52
+Utah Jazz,Phoenix,659.75,659.75
+Dallas Mavericks,Portland,2032.72,NA
+Denver Nuggets,Portland,1240.44,NA
+Golden State Warriors,Portland,636.14,NA
+Houston Rockets,Portland,2274.04,NA
+LA Lakers/Clippers,Portland,971,NA
+Memphis Grizzlies,Portland,2245.8,NA
+Minnesota Timberwolves,Portland,1728.14,NA
+Pelicans,Portland,2506.49,NA
+OKC Thunder,Portland,1909.5,NA
+Phoenix Suns,Portland,1266.58,NA
+Portland Trailblazers,Portland,0,NA
+Sacramento Kings,Portland,580.39,580.39
+San Antonio Spurs,Portland,2074.64,2074.64
+Utah Jazz,Portland,763.61,763.61
+Dallas Mavericks,Sacramento,1725.39,NA
+Denver Nuggets,Sacramento,1125.27,NA
+Golden State Warriors,Sacramento,88.04,NA
+Houston Rockets,Sacramento,1932.73,NA
+LA Lakers/Clippers,Sacramento,390.55,NA
+Memphis Grizzlies,Sacramento,2087.79,NA
+Minnesota Timberwolves,Sacramento,1893.74,NA
+Pelicans,Sacramento,2228.31,NA
+OKC Thunder,Sacramento,1621.66,NA
+Phoenix Suns,Sacramento,755.52,NA
+Portland Trailblazers,Sacramento,580.02,NA
+Sacramento Kings,Sacramento,0,NA
+San Antonio Spurs,Sacramento,1740.22,1740.22
+Utah Jazz,Sacramento,652.12,652.12
+Dallas Mavericks,San Antonio,271.27,NA
+Denver Nuggets,San Antonio,936.22,NA
+Golden State Warriors,San Antonio,1721.42,NA
+Houston Rockets,San Antonio,195.63,NA
+LA Lakers/Clippers,San Antonio,1358.95,NA
+Memphis Grizzlies,San Antonio,723.98,NA
+Minnesota Timberwolves,San Antonio,1248.81,NA
+Pelicans,San Antonio,537.12,NA
+OKC Thunder,San Antonio,463.14,NA
+Phoenix Suns,San Antonio,984.45,NA
+Portland Trailblazers,San Antonio,2080.23,NA
+Sacramento Kings,San Antonio,1739.51,NA
+San Antonio Spurs,San Antonio,0,NA
+Utah Jazz,San Antonio,1306.75,1306.75
+Dallas Mavericks,Salt Lake City,1240.65,NA
+Denver Nuggets,Salt Lake City,524.03,NA
+Golden State Warriors,Salt Lake City,736.38,NA
+Houston Rockets,Salt Lake City,1481.98,NA
+LA Lakers/Clippers,Salt Lake City,690.55,NA
+Memphis Grizzlies,Salt Lake City,1524.62,NA
+Minnesota Timberwolves,Salt Lake City,1247.22,NA
+Pelicans,Salt Lake City,1743.57,NA
+OKC Thunder,Salt Lake City,1188.33,NA
+Phoenix Suns,Salt Lake City,717.28,NA
+Portland Trailblazers,Salt Lake City,767.35,NA
+Sacramento Kings,Salt Lake City,651.72,NA
+San Antonio Spurs,Salt Lake City,1306.33,NA
+Utah Jazz,Salt Lake City,0,NA

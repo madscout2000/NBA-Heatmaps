@@ -1,0 +1,17 @@
+Origin,Destination,Distance,Distance2
+Los Angeles Lakers/Clippers,Los Angeles,0,NA
+Golden State Warriors,Los Angeles,367.92,367.92
+Phoenix Suns,Los Angeles,374.61,374.61
+Sacramento Kings,Los Angeles,386.02,386.02
+Los Angeles Lakers/Clippers,Oakland,365.5,NA
+Golden State Warriors,Oakland,0,NA
+Phoenix Suns,Oakland,736.68,736.68
+Sacramento Kings,Oakland,87.04,87.04
+Los Angeles Lakers/Clippers,Phoenix,374.45,NA
+Golden State Warriors,Phoenix,736.92,NA
+Phoenix Suns,Phoenix,0,NA
+Sacramento Kings,Phoenix,755.02,755.02
+Los Angeles Lakers/Clippers,Sacramento,384.62,NA
+Golden State Warriors,Sacramento,87.23,NA
+Phoenix Suns,Sacramento,755.79,NA
+Sacramento Kings,Sacramento,0,NA

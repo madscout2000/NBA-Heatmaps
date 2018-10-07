@@ -1,0 +1,26 @@
+Origin,Destination,Distance,Distance2
+Chicago Bulls,Chicago,0,NA
+Cleveland Cavaliers,Chicago,345.24,345.24
+Detroit Pistons,Chicago,282.85,282.85
+Indiana Pacers,Chicago,184.15,184.15
+Milwaukee Bucks,Chicago,91.18,91.18
+Chicago Bulls,Cleveland,345.83,NA
+Cleveland Cavaliers,Cleveland,0,NA
+Detroit Pistons,Cleveland,170.55,170.55
+Indiana Pacers,Cleveland,316.17,316.17
+Milwaukee Bucks,Cleveland,435.04,435.04
+Chicago Bulls,Detroit,283.22,NA
+Cleveland Cavaliers,Detroit,167.93,NA
+Detroit Pistons,Detroit,0,NA
+Indiana Pacers,Detroit,286.07,286.07
+Milwaukee Bucks,Detroit,283.26,283.26
+Chicago Bulls,Indianapolis,184.44,NA
+Cleveland Cavaliers,Indianapolis,315.27,NA
+Detroit Pistons,Indianapolis,288.83,NA
+Indiana Pacers,Indianapolis,0,NA
+Milwaukee Bucks,Indianapolis,279.49,279.49
+Chicago Bulls,Milwaukee,91.97,NA
+Cleveland Cavaliers,Milwaukee,435.14,NA
+Detroit Pistons,Milwaukee,381.6,NA
+Indiana Pacers,Milwaukee,280.38,NA
+Milwaukee Bucks,Milwaukee,0,NA

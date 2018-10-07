@@ -1,0 +1,26 @@
+Origin,Destination,Distance,Distance2
+Dallas Mavericks,Dallas,0,NA
+Houston Rockets,Dallas,241.73,241.73
+Memphis Grizzlies,Dallas,456.71,456.71
+New Orleans Pelicans,Dallas,507.14,507.14
+San Antonio Spurs,Dallas,271.93,271.93
+Dallas Mavericks,Houston,241.89,NA
+Houston Rockets,Houston,0,NA
+Memphis Grizzlies,Houston,568.6,568.6
+New Orleans Pelicans,Houston,346.9,346.9
+San Antonio Spurs,Houston,192.98,192.98
+Dallas Mavericks,Memphis,453.99,NA
+Houston Rockets,Memphis,568.33,NA
+Memphis Grizzlies,Memphis,0,NA
+New Orleans Pelicans,Memphis,393.46,393.46
+San Antonio Spurs,Memphis,723.59,723.59
+Dallas Mavericks,New Orleans,507.68,NA
+Houston Rockets,New Orleans,346.79,NA
+Memphis Grizzlies,New Orleans,393.78,NA
+New Orleans Pelicans,New Orleans,0,NA
+San Antonio Spurs,New Orleans,537.1,537.1
+Dallas Mavericks,San Antonio,271.84,NA
+Houston Rockets,San Antonio,192.91,NA
+Memphis Grizzlies,San Antonio,723.98,NA
+New Orleans Pelicans,San Antonio,537.12,NA
+San Antonio Spurs,San Antonio,0,NA
